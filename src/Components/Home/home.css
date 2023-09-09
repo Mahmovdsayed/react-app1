@@ -1,0 +1,10 @@
+.style-back {
+    background-color: #1ABC9C;
+    color: #fff;
+}
+
+.lines {
+    height: 4px;
+    width: 80px;
+    background-color: #fff;
+}

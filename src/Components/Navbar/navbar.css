@@ -1,0 +1,24 @@
+.navbar-brand {
+    font-size: 23px;
+    color: #fff !important;
+    font-weight: 700;
+}
+
+.navbar {
+    background-color: #2C3E50 !important;
+}
+
+.style{
+    
+    color: #fff !important;
+    font-weight: 700;
+    text-transform: uppercase;
+    margin-inline: 10px;
+    
+
+}
+
+.style:focus {
+    background-color: #1ABC9C;
+    border-radius: 10px;
+}

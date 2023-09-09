@@ -1,0 +1,27 @@
+
+.image {
+    position: relative;
+}
+.image .layer {
+    position: absolute;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    background-color: #29b198c9;
+    opacity: 0;  
+     z-index: 100;
+     bottom: 0;
+    transition: all 400ms;
+}
+
+.image:hover .layer {
+    opacity: 1;
+}
+
+.layer  .plus  {
+    font-size: 60px;
+   color: #fff;
+
+}

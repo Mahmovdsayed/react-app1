@@ -1,0 +1,17 @@
+.notfound h2 {
+    font-size: 40px;
+    margin-block: 20px;
+}
+.notfound h4 {
+    font-size: 15px;
+    margin-block: 20px;
+}
+.notfound p {
+    font-size: 15px;
+    margin-block: 20px;
+    color: #252525;
+}
+.error {
+    background-color: #fff;
+    color: #000;
+}
